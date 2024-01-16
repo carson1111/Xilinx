@@ -1,1 +1,1 @@
-##for learning PYNQ-ZU
+For learning PYNQ-ZU
